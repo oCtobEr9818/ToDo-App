@@ -2,7 +2,7 @@
     "name": "realtime-weather-app",
     "version": "0.1.0",
     "private": "true",
-    "homepage": "https://github.com/oCtobEr9818/ToDo-App",
+    "homepage": "https://october9818.github.io/Todo-app/",
     "dependencies": {
         "gh-pages": "^3.2.3"
     },
