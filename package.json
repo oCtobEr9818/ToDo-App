@@ -1,0 +1,14 @@
+{
+    "name": "realtime-weather-app",
+    "version": "0.1.0",
+    "private": "true",
+    "homepage": "https://github.com/oCtobEr9818/ToDo-App",
+    "dependencies": {
+        "gh-pages": "^3.2.3"
+    },
+
+    "scripts": {
+        "predeploy": "npm run build",
++       "deploy": "gh-pages -d build"
+    }
+}
